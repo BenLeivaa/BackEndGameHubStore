@@ -2,6 +2,8 @@
 PROYECTO: Game_Hub_Store - Evaluacion Parcial 2
 ASIGNATURA: FULL STACK I_002D
 INTEGRANTES: Benjamin Leiva, Emily Pacheco y Luis Torres
+ASIGNATURA: FULL STACK I_002D/001D
+INTEGRANTES: Benjamin Leiva(001D), Emily Pacheco(002D) y Luis Torres(002D).
 ```
 ```
 1. Descripción del Proyecto
@@ -21,6 +23,17 @@ GameHub_Store/
 ├── category-service/ || Puerto: 8080
 ├── product-service/ || Puerto: 8080
 └── README.md
+├── user-service/ || Puerto: 8081
+├── product-service/ || Puerto: 8082
+├── category-service/ || Puerto: 8083
+├── inventory-service/ || Puerto: 8084
+├── order-service/ || Puerto: 8085
+├── payment-service/ || Puerto: 8086
+├── shipping-service/ || Puerto: 8087
+├── promotion-service/ || Puerto: 8088
+├── review-service/ || Puerto: 8089
+├── warranty-service/ || Puerto: 8090
+└──  notification-service/ || Puerto: 8091
 ```
 
 3. Pasos para Ejecutar
